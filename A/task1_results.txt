@@ -1,0 +1,4 @@
+Value of the Stefan-Boltzmann constant from the integral: 4.879726e-112 W/m^2K^4
+Result of the integral from 0 to infinity using scipy's 'quad': 6.493939e+00
+Known Stefan-Boltzmann constant: 5.670367e-08 W/m^2K^4
+Difference between calculated and known value: 5.670367e-08
